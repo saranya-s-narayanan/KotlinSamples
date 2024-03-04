@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Greeting Card</string>
+    <string name="to_text">John</string>
+    <string name="from_text">Emma</string>
+    <string name="msg_text">Happy Christmas!</string>
+    <string name="hello_text">"Hello "</string>
+    <string name="from1_text">"From "</string>
 </resources>
